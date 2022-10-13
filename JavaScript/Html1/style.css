@@ -1,0 +1,32 @@
+p{
+    font: 300;
+    color: white;
+    background-color: black;
+}
+h1{
+    color: green;
+    background-color: blue;
+}
+#paragrafo{
+    background-color: purple;
+}
+.teste{
+    background-color: yellow;
+    color: black;
+}
+.bold{
+    color: brown;
+}
+#h1header{
+    background-color: white;
+    color: black;
+}
+#lista{
+    font: normal 20pt Arial;
+}
+#cabeçalho{
+    width: auto;
+    text-align: center;
+    padding: 1rem;
+    
+}

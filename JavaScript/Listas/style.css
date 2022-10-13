@@ -1,0 +1,36 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+nav{
+    background-color: black;
+    border: solid rgb(255, 255, 255);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px   ;
+}
+nav a{
+    font-size: 25pt;
+    text-transform: uppercase;
+    font-family: fantasy;
+    color: #ffff;
+    text-decoration: unset;
+    list-style-type: none;
+    display: block;
+    padding: 10px 20px;
+    
+}
+nav a:hover{
+    background-color: rgba(255, 255, 255, 0.329);
+}
+
+nav ul{
+    display: flex;
+    margin-left: 10px;
+    
+}
+body{
+    background-color: rgb(80, 80, 80);
+}

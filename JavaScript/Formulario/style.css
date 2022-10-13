@@ -1,0 +1,45 @@
+#Topform{
+    text-align: center;
+    size: 25pt;
+    color: white;
+}
+#meiotop{
+    text-align: center;
+    size: 15pt;
+    text-transform: uppercase;
+    color: white;
+    
+}
+#sobrenome{
+    margin-right: 150px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(28, 2, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+#depoisdomeio{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+#cu{
+    text-transform: uppercase;
+    color: white;
+    size: 30pt;
+    text-align: center;
+}
+fildset{
+    border: 0px;
+}#date{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+} #botao{
+    width: 100px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 800px;
+}
